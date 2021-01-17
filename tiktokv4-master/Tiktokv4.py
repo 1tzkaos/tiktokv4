@@ -160,8 +160,8 @@ def loop3():
     hearts()
 """
 
-vidUrl = "YOUR_URL" #Change YOUR_URL to your Tik Tok video URL. This URL used to get views or hearts or both.
-username = "YOUR_USERNAME" #Change YOUR_USERNAME to your Tik Tok username
+vidUrl = "https://vt.tiktok.com/ZSTjLyDa/" #Change YOUR_URL to your Tik Tok video URL. This URL used to get views or hearts or both.
+username = "kenjimuzik" #Change YOUR_USERNAME to your Tik Tok username
 
 system("cls")
 tiktod = pyfiglet.figlet_format("TIKTOD V4", font="slant")
